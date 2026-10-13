@@ -59,8 +59,8 @@ All 3D parts are modeled for easy FDM printing without complex support structure
 
 - [x] Design and print corner brackets & rod supports
 - [x] Verify linear rod clearances ($\varnothing 8.3\text{ mm}$) and nozzle alignment
-- [ ] CAD & 3D print NEMA 17 motor mounts (Linear drive & Lever mechanism)
-- [ ] Mount motors, lead screw, and test mechanical carriage motion
+- [X] CAD & 3D print NEMA 17 motor mounts (Linear drive & Lever mechanism)
+- [X] Mount motors, lead screw, and test mechanical carriage motion
 - [ ] Design gravity-fed or servo-assisted cigarette tube magazine
 - [ ] Electronics wiring, limit switch homing, and control software (C++/Arduino)
 
